@@ -1,0 +1,12 @@
+0.1b2
+	Bug fixed: TagBook now should run on all desktops
+
+0.3b
+    Several bug fixes (some are important!)
+	About Dialog: fixed license link
+	Tag Dialog: changed button text from 'OK' to 'Done'
+    Remove manual lock feature (caused confusion)
+    Remove zoom feature (almost useless)
+    Menu: rename database to book (common sense, right!)
+    Add Dialog: rename address field to data (hoping to reduce confusion)
+    Menu -> Book: rename menu item 'Load' to 'Open' (common sense!)

@@ -1,0 +1,25 @@
+# Shortcuts for TagBook
+## Bookmark Search
++ By default, search is based on 'Tags' and 'Name' fields.
++ To disable tag search, add "nt" as a keyword in the search box.
++ To disable name search, add "nn" as a keyword in the search box.
++ To enable description search, add "d" as a keyword in the search box.
++ To enable data search, add "a" as a keyword in the search box.
++ To enable notes search, "n" as a keyword in the search box.
++ To list untagged bookmarks, use "notag" as a keyword in the search box.
++ To perform a NOT tag search, prefix a keyword with a minus sign '-', it means: bookmarks must not have that keyword as a tag.  
++ Examples: Check Examples section.
+	
+## Tag Search
++ Search is based on 'Name' field (Obviously!).
++ When you search for 'link', it means: find any tag whose name contains 'link'.
+	
+## Edit Dialog
++ If you press the 'ALT' key with a number between 1 and 6 inclusive, you can quickly navigate to the corresponding control.
++ If you press the 'CTRL' key with a number between 1 and 4 inclusive, you can quickly paste text to the corresponding field.
++ When you enter text into the data field, hit enter to suggest tags.
+
+## Other
+In case you don't know, when you see an underlined character on a button or a label,
+it means you can use 'ALT' with that character on your keyboard as a shortcut for that button or label.
+TagBook's menus display a hint for operations with associated shortcut.

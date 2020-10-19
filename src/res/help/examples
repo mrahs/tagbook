@@ -1,0 +1,13 @@
+# Usage
++ You can use TagBook to save all kinds of information.
++ You can save web links, emails, phone numbers, todo notes, memos, notes, ..
+
+# Bookmark Search:
++ 'cool' will search for bookmarks that are tagged with 'cool' or their name contains 'cool'.
++ 'nn cool' will search for bookmarks that are tagged with 'cool'.
++ 'nt cool' will search for bookmarks whose names contain the word 'cool'.
++ 'd cool' will search for bookmarks whose names OR description contains the word 'cool' OR tagged with 'cool'.
++ 'a cool' will search for bookmarks whose names OR data contains the word 'cool' OR tagged with 'cool'.
++ 'cool a d', 'a cool d', 'a d cool' and 'd a cool' are all the same.
++ '-link' will search for bookmarks that are NOT tagged with 'link'.
++ "nn cool app -commercial" will search for bookmarks tagged with 'cool' AND 'app' AND NOT 'commercial'.
